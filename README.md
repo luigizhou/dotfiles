@@ -6,7 +6,7 @@ Will use to track my own personalized terminal config as well as automating it w
 Portable configuration to be used everywhere
 
 
-## Installation instruction
+## Installation instruction
 
 TODO
 
